@@ -3,7 +3,7 @@ import Button from "./components/Button";
 function App() {
   return (
     <div>
-      <Button text="Hola, tocame!!!" />
+      <Button text="Hola, tocame, soy Tu, Hola!!!" />
     </div>
   );
 }
